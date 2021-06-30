@@ -57,8 +57,8 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
-/*! axe v3.5.5
- * Copyright (c) 2020 Deque Systems, Inc.
+/*! axe v3.5.6
+ * Copyright (c) 2021 Deque Systems, Inc.
  *
  * Your use of this Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -86,14 +86,8 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
- * @license Angular v10.1.6
- * (c) 2010-2020 Google LLC. https://angular.io/
- * License: MIT
- */
-
-/**
- * @license Angular v10.2.5
- * (c) 2010-2020 Google LLC. https://angular.io/
+ * @license Angular v11.2.14
+ * (c) 2010-2021 Google LLC. https://angular.io/
  * License: MIT
  */
 
